@@ -1,0 +1,12 @@
+package com.infrest.approvalworkflow;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ApprovalWorkflowServiceApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(ApprovalWorkflowServiceApplication.class, args);
+    }
+}
